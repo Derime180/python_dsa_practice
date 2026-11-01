@@ -1,5 +1,4 @@
-# python_dsa_practice
-journey using DSA for the very first time 
+
 # Python DSA Practice 
 
 I'm a B.Tech Computer Science student learning Python and practising problem-solving through LeetCode.
